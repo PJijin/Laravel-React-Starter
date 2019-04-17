@@ -21,7 +21,7 @@ const Header = () => (
         </button>
         <div className="collapse navbar-collapse" id="navbarNav">
             <ul className="navbar-nav">
-                <li className="nav-item active">
+                <li className="nav-item">
                     <Link className="nav-link" to="/">
                         Home <span className="sr-only">(current)</span>
                     </Link>
@@ -30,6 +30,14 @@ const Header = () => (
                     <Link className="nav-link" to="/example">
                         Example
                     </Link>
+                </li>
+                <li>
+                    <a
+                        className="nav-link"
+                        href="https://github.com/PJijin/Laravel-React-Starter"
+                        taget="_BLANK">
+                        <i className="fab fa-github" />
+                    </a>
                 </li>
             </ul>
         </div>

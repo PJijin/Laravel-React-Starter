@@ -1,6 +1,5 @@
 <p align="center">
-<img src="https://laravel.com/assets/img/components/logo-laravel.svg" />
-<img src="https://reactjs.org/logo-og.png"/>
+<img src="https://i.imgur.com/TyMGdZC.png" />
 </p>
 
 ## Laravel React Starter
